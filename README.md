@@ -1,4 +1,4 @@
 # Bash_course
 This repository is made for the Radboud bash_course
 
-![picture](https://github.com/[username]/[reponame]/blob/Bash_cou/image.jpg?raw=true  "meme")
+![picture](https://github.com/Estroucken/Bash_course/blob/master/image.jpg?raw=true  "meme")
