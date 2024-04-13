@@ -2,7 +2,7 @@
 
 #create and activate conda environment
 source $(dirname $(dirname $(which mamba)))/etc/profile.d/conda.sh
-yes | conda create --name bam2bigwig deeptools samtools
+conda create --name bam2bigwig --yes deeptools samtools
 conda activate bam2bigwig
 
 #define input and output arguments
